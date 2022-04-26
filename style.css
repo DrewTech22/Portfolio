@@ -1,0 +1,28 @@
+ 
+    body {
+    text-align: center;
+    background: white ;
+    background-size: 800px;
+    font-family: helvetica;
+    color: black;
+    }
+    p {
+      font-size: 22px;
+    }
+    
+    input {
+      border:0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    
+    input[type="submit"] {
+      color: white;
+      background: red;
+    }
+
+    img {
+        border-color: red;
+        border-radius: 415px;
+
+    } 

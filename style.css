@@ -1,10 +1,10 @@
  
     body {
     text-align: center;
-    background: white ;
+    background: url(abovecity.jpg) ;
     background-size: 800px;
     font-family: helvetica;
-    color: black;
+    color: yellow;
     }
     p {
       font-size: 22px;

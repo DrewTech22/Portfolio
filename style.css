@@ -1,8 +1,9 @@
  
     body {
     text-align: center;
-    background: url(abovecity.jpg) ;
-    background-size: 800px;
+    background: url(abovecity.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px;
     font-family: helvetica;
     color: yellow;
     }
